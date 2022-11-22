@@ -13,3 +13,15 @@ This Repository is an open source, detailing Must know concepts of React and mos
 
 ![My Image](images/keys.png)
 
+## <h3>What is a DOM in React React JS?</h3>
+<p>DOM stands for Document Object Model. It is a structured representation of the HTML elemets that are present in a web page or web-app. DOM represents the entire UI of your application. It is an interface that allows the script to update the content, style and the structure of the document</p>
+<h3>What is the differenct between Virtual DOM and Real DOM?</h3>
+<ul>
+  <li>Real DOM is very Expensive while Virtual DOM is very easy</li>
+  <li>In Real DOM, there is too much memory wastage while in Virtual DOM, there is no memory wastage</li>
+  <li>Real DOM updates slow while Virtual DOM updates fast</li>
+  <li>Real DOM can directly update HTML while Virtual DOM can't directly update HTML</li>
+  <li>Real DOM Creates a new DOM if the element updates while Virtual DOM updatess the JSX if the element updates</li>
+</ul>
+
+
