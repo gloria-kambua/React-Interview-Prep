@@ -34,7 +34,7 @@ This Repository is an open source, detailing Must know concepts of React and mos
   <li>Debugging - Testing React apps is very easy due to large community support.</li>
 </ol>
 
-###Component
+### Component
 <h3>What is a Component in React?</h3>
 <p>Componentss</p>
 
