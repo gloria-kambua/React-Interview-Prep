@@ -11,6 +11,5 @@ This Repository is an open source, detailing Must know concepts of React and mos
 <p>Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.</p>
 <p>The best way to pick a key is to use a string that uniquely identifies a list amoung its siblings. Most oftn you would use IDs from your data as keys</p>
 
-D:\project docs\images
-<img src="D:/project docs/images/keys.png" alt="Keys" title="Keys in React">
+![My Image](images/keys.png)
 
