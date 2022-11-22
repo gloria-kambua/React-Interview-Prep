@@ -29,6 +29,13 @@ This Repository is an open source, detailing Must know concepts of React and mos
 <ol>
   <li>JSX - This is a javascript extension in react that is used HTML and Javascript together</li>
   <li>Unidirectional Data Flow and Flux - React is designed that it will only support data that is flowing downstream, in one direction. If the data has to flow in another direction, it will need additional features</li>
+  <li>Virtual DOM - React contains a lightweight representation of the real DOM in the memory called Virtual DOM. Manipulating the Real DOM is much slower compared to VDOM as nothing gets drawn on the screen.</li>
+  <li>Extensions. React supports various extensions for the application. It supports server-side rendering, Flux, and Redux for creating cross-compatible mobile apps</li>
+  <li>Debugging - Testing React apps is very easy due to large community support.</li>
 </ol>
+
+###Component
+<h3>What is a Component in React?</h3>
+<p>Componentss</p>
 
 
