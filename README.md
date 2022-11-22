@@ -24,4 +24,11 @@ This Repository is an open source, detailing Must know concepts of React and mos
   <li>Real DOM Creates a new DOM if the element updates while Virtual DOM updatess the JSX if the element updates</li>
 </ul>
 
+### Features of React
+<h3>List React Features and their explanation</h3>
+<ol>
+  <li>JSX - This is a javascript extension in react that is used HTML and Javascript together</li>
+  <li>Unidirectional Data Flow and Flux - React is designed that it will only support data that is flowing downstream, in one direction. If the data has to flow in another direction, it will need additional features</li>
+</ol>
+
 
