@@ -1,11 +1,20 @@
 <h1>React-Interview-Prep</h1>
 This Repository is an open source, detailing Must know concepts of React and most interview Questions
 
+<h3>Why use React instead of other Frameworks like Angular?</h3>
+<ol>
+  <li>Easy creation of dynamic applications. React makes it easier to create dynamic applications because it provided less coding and provides more functionality, whereas with Javascript applications, code tends to be complex very quickly</li>
+  <li>Reusable components. Components are the building blocks of any React application, a single app consists of multiple components. These components have their own logic and controls and can be reused through the application, which in turn, dramatically reduces the development time of an application</li>
+  <li>Dedicated tools for easy debugging: Facebook released a chrome extension that can be used to debug React applications</li>
+</ol>
 <h2>JSX</h2>
 
 <h3 style="color:red;">What is JSX in React?</h3>
 
 <p>JSX is a  Javascript Extension Syntax used in React to easily write HTM and JavaScript together.</p>
+
+<h3>Can web browsers read JSX directly</h3>
+<p>Web browsers cannot read JSX directky. This is because they are built to only read regular JS objects and JSX is not a regular Javascript object. For the web browser to read a JSX file, the file needs to be transformed into a regular Javascript object. For this we use Babel</p>
 
 ## Keys
 <p>Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.</p>
@@ -36,6 +45,14 @@ This Repository is an open source, detailing Must know concepts of React and mos
 
 ### Component
 <h3>What is a Component in React?</h3>
-<p>Componentss</p>
+<p>Components are independent and reusable bits of code. They serve the same purpose as Javascript functions but work in isolation and return HTML</p>
+<h3>What is the difference between functional components and class components</h3>
+<ol>
+  <li>Functional Components have no state of their own and only contain render methods. The are also called stateless components. They derive data from other components props</li>
+  <li>Class Components can hold and manage their own state and have separate render method to return JSX on the screen. They are also referred to as Stateful components</li>
+</ol>
+<h3>What is the use of render?</h3>
+<p>Is it a requirement for each component to have a render function. This function returns the HTML which is to be displayed in the component.</p>
+<p>if you need to render more than one element, all the elements need to be under one parent tag</p>
 
 
